@@ -1,4 +1,4 @@
-# Fathur-s-resolusi And Fathur's profile
+# Fathur's profile
 Hi welcome to my github. Thank you soo much for searching me on github so for that you can continue read my profile and my repository enjoy.
 
 # 1. Hello Github
