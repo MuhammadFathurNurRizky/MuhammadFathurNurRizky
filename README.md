@@ -10,6 +10,9 @@ I had so many skills at least ;). I can HTML and CSS (of course), i also can jav
 # 3. My Other Skill That Anybody In The World can't Have
 I Learned all my skills self taught. So if you want to hire me, you better think twice (hahahaha).
 
-# 4. My quote
+# 4. My Focus
+after javascript on the way phyton and django.
+
+# 5. My quote
 There's no clean code
                  - M. Fathur
