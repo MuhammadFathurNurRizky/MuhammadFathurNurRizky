@@ -11,7 +11,7 @@ I had so many skills at least ;). I can HTML and CSS (of course), i also can jav
 I Learned all my skills self taught. So if you want to hire me, you better think twice (hahahaha).
 
 # 4. My Focus
-after javascript on the way phyton and django.
+after javascript on the way python and django.
 
 # 5. My quote
 There's no clean code
