@@ -14,5 +14,4 @@ I Learned all my skills self taught. So if you want to hire me, you better think
 after javascript on the way python and django.
 
 # 5. My quote
-There's no clean code
-                 - M. Fathur
+our purpose in living in this world is only one to benefit many people - M. Fathur
